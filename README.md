@@ -1,4 +1,4 @@
-Movie Dataset Exploratory Data Analysis
+## Movie Dataset Exploratory Data Analysis
 # Overview
 
 This project examines a movie dataset through univariate and bivariate analysis. It explores patterns in ratings, budgets, revenues, scores, and director activity to understand the factors driving box-office performance.
@@ -100,3 +100,10 @@ Open the notebook and run the cells in order
 # Conclusion
 
 The analysis reveals clear trends in how movies perform. Higher budgets often result in higher gross earnings, audience engagement aligns with stronger scores, and yearly revenue trends show long-term growth with occasional dips. A few genres and directors dominate the dataset, while data-quality issues highlight the need for careful cleaning
+
+
+Thanks for viewing the project. Feel free to DM me for any questions or collaborations.
+
+SAI KIRAN REDDY SINGI REDDY
+saikiranr717@gmail.com
+www.linkedin.com/in/saikiran-r717
