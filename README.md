@@ -148,11 +148,14 @@ pip install pandas numpy matplotlib seaborn jupyter
 git clone https://github.com/your-username/movie-eda.git
 cd movie-eda
 jupyter notebook project_EDA.ipynb
---- 
+---
+
+
+---
 
 ##  Contact
 
 Made with ❤️ for data exploration.  
 Feel free to open an issue or submit a pull request!
-
+===
 
